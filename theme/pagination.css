@@ -1017,7 +1017,7 @@
   box-sizing: border-box;
   margin: 5px 0; }
   .el-select-dropdown.is-multiple .el-select-dropdown__item.selected {
-    color: #EEEEEE;
+    color: #8183e2;
     background-color: #333333; }
     .el-select-dropdown.is-multiple .el-select-dropdown__item.selected.hover {
       background-color: #272822; }
@@ -1316,7 +1316,7 @@
       border-color: #DCDFE6; }
     .el-textarea__inner:focus {
       outline: none;
-      border-color: #EEEEEE; }
+      border-color: #8183e2; }
   .el-textarea .el-input__count {
     color: #909399;
     background: #333333;
@@ -1416,7 +1416,7 @@
       border-color: #DCDFE6; }
     .el-input__inner:focus {
       outline: none;
-      border-color: #EEEEEE; }
+      border-color: #8183e2; }
   .el-input__suffix {
     position: absolute;
     height: 100%;
@@ -1455,7 +1455,7 @@
     pointer-events: none; }
   .el-input.is-active .el-input__inner {
     outline: none;
-    border-color: #EEEEEE; }
+    border-color: #8183e2; }
   .el-input.is-disabled .el-input__inner {
     background-color: #272822;
     border-color: #909399;
@@ -1800,17 +1800,17 @@
 /* Break-point
 --------------------------*/
 .el-tag {
-  background-color: rgba(238, 238, 238, 0.1);
+  background-color: rgba(129, 131, 226, 0.1);
   display: inline-block;
   padding: 0 10px;
   height: 32px;
   line-height: 30px;
   font-size: 12px;
-  color: #EEEEEE;
+  color: #8183e2;
   border-radius: 4px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  border: 1px solid rgba(238, 238, 238, 0.2);
+  border: 1px solid rgba(129, 131, 226, 0.2);
   white-space: nowrap; }
   .el-tag .el-icon-close {
     border-radius: 50%;
@@ -1824,11 +1824,11 @@
     vertical-align: middle;
     top: -1px;
     right: -5px;
-    color: #EEEEEE; }
+    color: #8183e2; }
     .el-tag .el-icon-close::before {
       display: block; }
     .el-tag .el-icon-close:hover {
-      background-color: #EEEEEE;
+      background-color: #8183e2;
       color: #333333; }
   .el-tag--info {
     background-color: rgba(144, 147, 153, 0.1);
@@ -2149,7 +2149,7 @@
   .el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
     background-color: #272822; }
   .el-select-dropdown__item.selected {
-    color: #EEEEEE;
+    color: #8183e2;
     font-weight: bold; }
 
 /* BEM support Func
@@ -2700,7 +2700,7 @@
     cursor: pointer;
     padding-right: 35px; }
     .el-select .el-input__inner:focus {
-      border-color: #EEEEEE; }
+      border-color: #8183e2; }
   .el-select .el-input .el-select__caret {
     color: #DCDFE6;
     font-size: 14px;
@@ -2730,7 +2730,7 @@
     .el-select .el-input.is-disabled .el-input__inner:hover {
       border-color: #909399; }
   .el-select .el-input.is-focus .el-input__inner {
-    border-color: #EEEEEE; }
+    border-color: #8183e2; }
   .el-select > .el-input {
     display: block; }
   .el-select__input {
@@ -2836,7 +2836,7 @@
     .el-pagination button:focus {
       outline: none; }
     .el-pagination button:hover {
-      color: #EEEEEE; }
+      color: #8183e2; }
     .el-pagination button:disabled {
       color: #DCDFE6;
       background-color: #333333;
@@ -2893,7 +2893,7 @@
       font-size: 13px;
       padding-left: 8px; }
       .el-pagination__sizes .el-input .el-input__inner:hover {
-        border-color: #EEEEEE; }
+        border-color: #8183e2; }
   .el-pagination__total {
     margin-right: 10px;
     font-weight: normal;
@@ -2940,9 +2940,9 @@
     .el-pagination.is-background .btn-prev:disabled, .el-pagination.is-background .btn-next:disabled {
       color: #DCDFE6; }
   .el-pagination.is-background .el-pager li:not(.disabled):hover {
-    color: #EEEEEE; }
+    color: #8183e2; }
   .el-pagination.is-background .el-pager li:not(.disabled).active {
-    background-color: #EEEEEE;
+    background-color: #8183e2;
     color: #333333; }
   .el-pagination.is-background.el-pagination--small .btn-prev,
   .el-pagination.is-background.el-pagination--small .btn-next,
@@ -2989,7 +2989,7 @@
     .el-pager li.active + li {
       border-left: 0; }
     .el-pager li:hover {
-      color: #EEEEEE; }
+      color: #8183e2; }
     .el-pager li.active {
-      color: #EEEEEE;
+      color: #8183e2;
       cursor: default; }

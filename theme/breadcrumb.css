@@ -257,7 +257,7 @@
         transition: color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
         color: #F2F6FC; }
         .el-breadcrumb__inner.is-link:hover, .el-breadcrumb__inner a:hover {
-          color: #EEEEEE;
+          color: #8183e2;
           cursor: pointer; }
     .el-breadcrumb__item:last-child .el-breadcrumb__inner, .el-breadcrumb__item:last-child .el-breadcrumb__inner:hover,
     .el-breadcrumb__item:last-child .el-breadcrumb__inner a,

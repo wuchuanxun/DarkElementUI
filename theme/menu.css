@@ -493,7 +493,7 @@
         .el-menu--horizontal > .el-submenu:focus .el-submenu__title, .el-menu--horizontal > .el-submenu:hover .el-submenu__title {
           color: #F2F6FC; }
       .el-menu--horizontal > .el-submenu.is-active .el-submenu__title {
-        border-bottom: 2px solid #EEEEEE;
+        border-bottom: 2px solid #8183e2;
         color: #F2F6FC; }
       .el-menu--horizontal > .el-submenu .el-submenu__title {
         height: 60px;
@@ -523,7 +523,7 @@
       outline: none;
       color: #F2F6FC; }
     .el-menu--horizontal > .el-menu-item.is-active {
-      border-bottom: 2px solid #EEEEEE;
+      border-bottom: 2px solid #8183e2;
       color: #F2F6FC; }
   .el-menu--collapse {
     width: 64px; }
@@ -596,7 +596,7 @@
     color: #E4E7ED; }
   .el-menu-item:hover, .el-menu-item:focus {
     outline: none;
-    background-color: #464646; }
+    background-color: #3b3b45; }
   .el-menu-item.is-disabled {
     opacity: 0.25;
     cursor: not-allowed;
@@ -608,7 +608,7 @@
     font-size: 18px;
     vertical-align: middle; }
   .el-menu-item.is-active {
-    color: #EEEEEE; }
+    color: #8183e2; }
     .el-menu-item.is-active i {
       color: inherit; }
 
@@ -636,13 +636,13 @@
       color: #E4E7ED; }
     .el-submenu__title:hover, .el-submenu__title:focus {
       outline: none;
-      background-color: #464646; }
+      background-color: #3b3b45; }
     .el-submenu__title.is-disabled {
       opacity: 0.25;
       cursor: not-allowed;
       background: none !important; }
     .el-submenu__title:hover {
-      background-color: #464646; }
+      background-color: #3b3b45; }
   .el-submenu .el-menu {
     border: none; }
   .el-submenu .el-menu-item {
@@ -661,7 +661,7 @@
     transition: transform .3s, -webkit-transform .3s;
     font-size: 12px; }
   .el-submenu.is-active .el-submenu__title {
-    border-bottom-color: #EEEEEE; }
+    border-bottom-color: #8183e2; }
   .el-submenu.is-opened > .el-submenu__title .el-submenu__icon-arrow {
     -webkit-transform: rotateZ(180deg);
     transform: rotateZ(180deg); }
