@@ -1,14 +1,21 @@
 {
   "name": "elementui-dark",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "element ui dark theme",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "element-theme-chalk": "^2.8.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuchuanxun/DarkElementUI.git"
+  },
+  "author": "Wu chuanxun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuchuanxun/DarkElementUI/issues"
+  },
+  "homepage": "https://github.com/wuchuanxun/DarkElementUI#readme"
 }
