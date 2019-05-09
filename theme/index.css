@@ -16455,6 +16455,14 @@
   background-color: #333333;
   font-size: 16px;
   color: #EBEEF5; }
+  .el-table ::-webkit-scrollbar {
+    width: 8px;
+    background-color: #393939; }
+  .el-table ::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
+    background-color: whitesmoke; }
   .el-table__empty-block {
     min-height: 60px;
     text-align: center;
